@@ -1,13 +1,11 @@
 
 # 🩺 MED EASE: ML-Driven Symptom Analysis with Expert Doctor and Drug Recommendation
 
-**MED EASE: ML-Driven Symptom Analysis with Expert Doctor and Drug Recommendation**
-
 MED-EASE is an AI-powered web application designed to analyze patient symptoms and provide predictive diagnosis using machine learning. It integrates an expert recommendation system for doctors and appropriate medications based on user inputs. Built using Python, Flask, MySQL, and ML models, this tool bridges the gap between patients and healthcare accessibility.
 
 ---
 
-## 📌 Key Features
+## 🔍 Core Functionalities
 
 - 🔍 **Symptom-Based Disease Prediction**
 - 👨‍⚕️ **Doctor Recommendation System**
@@ -138,10 +136,11 @@ Open browser and go to: [http://localhost:2345](http://localhost:2345)
 ## 🤝 Authors
 
 - **Umar Javeed Altaf** – `altafumar637@gmail.com`
-- **Ayesha Siddiq** – `siddiq.a@northeastern.edu`
-- **Shaammah Firdous** – `firdous.s@northeastern.edu`
+- **Ayesha Siddiq** – `ayeshamadar20@gmail.com`
+- **Shaammah Firdous** – `shamamah86@gmail.com`
 
-> Guided by: **Mrs. Saba Sheiba**, CS & AI Dept, MJCET
+> > Guided by: **Mrs. Saba Sheiba**, Department of Computer Science and Artificial Intelligence, Muffakham Jah College of Engineering and Technology, affiliated to Osmania University, Hyderabad, Telangana, India.
+
 
 ---
 
@@ -151,10 +150,24 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
+## 🤝 Contributing
+
+Contributions are always welcome!
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/your-feature-name`)
+3. Commit your changes
+4. Push to your branch (`git push origin feature/your-feature-name`)
+5. Open a Pull Request
+
+If you found this project useful, please ⭐ the repo!
+
+---
+
 ## 🙌 Acknowledgements
 
 - Thanks to scikit-learn and Flask contributors.
 - Inspired by real-world healthcare gaps.
-- Dataset adapted from UCI Repository (or manually labeled symptom–disease mappings).
+- Dataset adapted from UCI Repository (manually labeled symptom–disease mappings).
 
 ---
