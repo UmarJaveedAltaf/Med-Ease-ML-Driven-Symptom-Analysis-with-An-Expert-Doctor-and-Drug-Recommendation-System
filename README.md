@@ -117,10 +117,14 @@ Open browser and go to: [http://localhost:2345](http://localhost:2345)
 
 ## 📚 How It Works
 
-1. **User Registers** – Patient fills form with symptoms & uploads image.
-2. **Model Predicts** – Disease predicted using ML model.
-3. **System Responds** – Recommended doctor & drug shown.
-4. **Data Stored** – Info saved in MySQL DB with profile image.
+## 📚 How It Works
+
+1. **Patient Registration** – The user registers with details including name, username, password, and contact information.  
+2. **Symptom Submission** – The patient selects and submits symptoms through a web form.  
+3. **Disease Prediction** – The trained ML model processes the symptoms and predicts the most likely disease.  
+4. **Doctor Recommendation** – Based on the predicted condition, a list of suitable doctors is shown.  
+5. **Appointment Booking** – The patient can choose a doctor and book an appointment; details are sent to the selected doctor.  
+6. **Data Persistence** – All user information, predicted results, and uploaded profile image are stored in the MySQL database.
 
 ---
 
