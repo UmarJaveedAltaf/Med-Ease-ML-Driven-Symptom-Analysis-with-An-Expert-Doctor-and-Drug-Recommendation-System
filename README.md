@@ -3,7 +3,7 @@
 
 **MED EASE: ML-Driven Symptom Analysis with Expert Doctor and Drug Recommendation**
 
-MediBot-ML-Diagnosis is an AI-powered web application designed to analyze patient symptoms and provide predictive diagnosis using machine learning. It integrates an expert recommendation system for doctors and appropriate medications based on user inputs. Built using Python, Flask, MySQL, and ML models, this tool bridges the gap between patients and healthcare accessibility.
+MED-EASE is an AI-powered web application designed to analyze patient symptoms and provide predictive diagnosis using machine learning. It integrates an expert recommendation system for doctors and appropriate medications based on user inputs. Built using Python, Flask, MySQL, and ML models, this tool bridges the gap between patients and healthcare accessibility.
 
 ---
 
@@ -22,7 +22,7 @@ MediBot-ML-Diagnosis is an AI-powered web application designed to analyze patien
 ## 📂 Project Structure
 
 ```
-MediBot-ML-Diagnosis/
+MED-EASE/
 ├── Database/        
 ├── dataset/                 
 ├── profilepic/               
@@ -71,8 +71,8 @@ MediBot-ML-Diagnosis/
 ### 1️⃣ Clone the Repo
 
 ```bash
-git clone https://github.com/UmarJaveedAltaf/MediBot-ML-Diagnosis.git
-cd MediBot-ML-Diagnosis
+git clone [https://github.com/UmarJaveedAltaf/MediBot-ML-Diagnosis.git](https://github.com/UmarJaveedAltaf/Med-Ease-ML-Driven-Symptom-Analysis-with-An-Expert-Doctor-and-Drug-Recommendation-System.git)
+cd Med-Ease-ML-Driven-Symptom-Analysis-with-An-Expert-Doctor-and-Drug-Recommendation-System
 ```
 
 ### 2️⃣ Set up the Python Environment
@@ -106,9 +106,14 @@ Open browser and go to: [http://localhost:2345](http://localhost:2345)
 
 ## 📸 Screenshots
 
-| 🏥 Home Page              | 👤 Patient Register            | 🧾 Result Page             |
-|---------------------------|-------------------------------|----------------------------|
-| ![Home](static/home.png) | ![Register](static/patient.png) | ![Result](static/result.png) |
+| 🏠 Home Page | 👤 Patient Login Page | 👨‍⚕️ Doctor Login Page |
+|-------------|------------------------|-------------------------|
+| ![Home](screenshots/homepage.png) | ![Patient Login](screenshots/Patient%20Login%20Page.png) | ![Doctor Login](screenshots/Doctors%20Login%20Page.png) |
+
+| 🛡️ Admin Dashboard | 🧾 Admin Portal |
+|---------------------|-------------------|
+| ![Admin Dashboard](screenshots/Administrator%20Dashboard.png) | ![Admin Portal](screenshots/Administrator%20Portal.png) |
+
 
 ---
 
